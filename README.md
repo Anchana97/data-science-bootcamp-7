@@ -17,3 +17,4 @@ I learned a lot of stuff related to data sciece skills. This bootcamp
 - Essential Python for Data Analyst
 - Dashboard
 
+You can find me on LinkedIN
